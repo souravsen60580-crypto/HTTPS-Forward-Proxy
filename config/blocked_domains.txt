@@ -1,0 +1,4 @@
+# Put blocked domains here
+
+# example:
+# example.com

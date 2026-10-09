@@ -1,0 +1,30 @@
+# Build files
+build/
+bin/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.clangd/
+
+# C++ compiled files & executables
+*.o
+*.out
+*.a
+*.so
+*.dylib
+src/main
+
+# Cache
+.cache/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
